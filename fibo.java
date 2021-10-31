@@ -1,5 +1,5 @@
 //Using  While Loop
-public class FibonacciWhileExample {
+public class fibo {
 	public static void main(String[] args) 
 	{
 		 int maxNumber = 10, previousNumber = 0, nextNumber = 1;
